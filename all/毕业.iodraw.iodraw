@@ -37,7 +37,7 @@
         <mxCell id="qu0SgMsTj16Xv-GbLCLv-39" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 24px;&quot;&gt;第二章&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;相关理论和技术&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="qu0SgMsTj16Xv-GbLCLv-46">
           <mxGeometry y="42.25" width="231" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qu0SgMsTj16Xv-GbLCLv-41" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;container=0;" vertex="1" parent="qu0SgMsTj16Xv-GbLCLv-46">
+        <mxCell id="qu0SgMsTj16Xv-GbLCLv-41" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;container=0;strokeColor=default;align=center;verticalAlign=middle;arcSize=5;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="qu0SgMsTj16Xv-GbLCLv-46">
           <mxGeometry x="328" width="463" height="144.5" as="geometry" />
         </mxCell>
         <mxCell id="qu0SgMsTj16Xv-GbLCLv-42" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;相关理论和技术&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;container=0;" vertex="1" parent="qu0SgMsTj16Xv-GbLCLv-46">
@@ -59,7 +59,7 @@
           <mxGeometry x="11" y="693.25" width="231" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qu0SgMsTj16Xv-GbLCLv-50" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="331" y="573" width="484" height="415" as="geometry" />
+          <mxGeometry x="336" y="573" width="484" height="415" as="geometry" />
         </mxCell>
         <mxCell id="qu0SgMsTj16Xv-GbLCLv-51" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;arcSize=5;" vertex="1" parent="qu0SgMsTj16Xv-GbLCLv-50">
           <mxGeometry x="0.003509575618756755" y="5.9979596977329965" width="483.4764904243812" height="421.27204030226704" as="geometry" />
