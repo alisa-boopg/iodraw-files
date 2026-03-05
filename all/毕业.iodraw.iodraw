@@ -88,7 +88,7 @@
         <mxCell id="qu0SgMsTj16Xv-GbLCLv-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qu0SgMsTj16Xv-GbLCLv-50" source="qu0SgMsTj16Xv-GbLCLv-57" target="qu0SgMsTj16Xv-GbLCLv-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qu0SgMsTj16Xv-GbLCLv-66" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;双重隐私保障&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;" vertex="1" parent="qu0SgMsTj16Xv-GbLCLv-50">
+        <mxCell id="qu0SgMsTj16Xv-GbLCLv-66" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;差分隐私保障&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;" vertex="1" parent="qu0SgMsTj16Xv-GbLCLv-50">
           <mxGeometry x="85.59" y="183" width="46" height="178" as="geometry" />
         </mxCell>
         <mxCell id="qu0SgMsTj16Xv-GbLCLv-67" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;近似分布发布&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;" vertex="1" parent="qu0SgMsTj16Xv-GbLCLv-50">
