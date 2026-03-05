@@ -41,15 +41,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="g9Ha0dKhtUsYav0e26QZ-18" value="真假" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="587" y="165" width="80" height="80" as="geometry" />
+          <mxGeometry x="587" y="184" width="159" height="61" as="geometry" />
         </mxCell>
         <mxCell id="g9Ha0dKhtUsYav0e26QZ-4" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;生成图像&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;G(z)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="206" y="227" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="g9Ha0dKhtUsYav0e26QZ-6" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;生成图像&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;G(z)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="g9Ha0dKhtUsYav0e26QZ-6" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;生成图像&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;G(z)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="211" y="234" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="g9Ha0dKhtUsYav0e26QZ-7" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;生成图像&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;i&gt;G(z)&lt;/i&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="g9Ha0dKhtUsYav0e26QZ-7" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;生成图像&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;i&gt;G(z)&lt;/i&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="217" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
