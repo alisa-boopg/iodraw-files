@@ -29,7 +29,7 @@
           <mxGeometry x="33" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g9Ha0dKhtUsYav0e26QZ-10" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="198" y="108" width="131" height="73" as="geometry" />
+          <mxGeometry x="206" y="105" width="131" height="73" as="geometry" />
         </mxCell>
         <mxCell id="g9Ha0dKhtUsYav0e26QZ-11" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;生成图像&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;G(z)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="g9Ha0dKhtUsYav0e26QZ-10">
           <mxGeometry width="120" height="60" as="geometry" />
