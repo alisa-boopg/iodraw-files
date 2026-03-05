@@ -38,7 +38,7 @@
           <mxGeometry x="339" y="572" width="463" height="406.23" as="geometry" />
         </mxCell>
         <mxCell id="qu0SgMsTj16Xv-GbLCLv-51" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;arcSize=5;" vertex="1" parent="qu0SgMsTj16Xv-GbLCLv-50">
-          <mxGeometry x="0.0033573006435627635" y="5.871207633759218" width="462.4992046828275" height="412.36949622166253" as="geometry" />
+          <mxGeometry y="5.87" width="462.5" height="382.13" as="geometry" />
         </mxCell>
         <mxCell id="qu0SgMsTj16Xv-GbLCLv-52" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;差分隐私应用&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="qu0SgMsTj16Xv-GbLCLv-50">
           <mxGeometry x="9.986447795380798" y="21.539399244332497" width="443.51808021038795" height="36.78581486146096" as="geometry" />
