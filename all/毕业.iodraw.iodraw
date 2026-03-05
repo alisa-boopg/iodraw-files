@@ -74,7 +74,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qu0SgMsTj16Xv-GbLCLv-66" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;差分隐私保障&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;" vertex="1" parent="qu0SgMsTj16Xv-GbLCLv-50">
-          <mxGeometry x="158.09523764077113" y="187.2546347607053" width="45.169773705753855" height="182.13838790931993" as="geometry" />
+          <mxGeometry x="138.99523764077114" y="187.2546347607053" width="45.169773705753855" height="182.13838790931993" as="geometry" />
         </mxCell>
         <mxCell id="qu0SgMsTj16Xv-GbLCLv-67" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;近似分布发布&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;" vertex="1" parent="qu0SgMsTj16Xv-GbLCLv-50">
           <mxGeometry x="234.00252974486224" y="187.25088161209072" width="45.169773705753855" height="182.13838790931993" as="geometry" />
@@ -84,9 +84,6 @@
         </mxCell>
         <mxCell id="qu0SgMsTj16Xv-GbLCLv-69" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;遗传迭代&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;" vertex="1" parent="qu0SgMsTj16Xv-GbLCLv-50">
           <mxGeometry x="408.3301412483298" y="187.25088161209072" width="45.169773705753855" height="182.13838790931993" as="geometry" />
-        </mxCell>
-        <mxCell id="qu0SgMsTj16Xv-GbLCLv-71" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="897" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qu0SgMsTj16Xv-GbLCLv-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qu0SgMsTj16Xv-GbLCLv-39" target="qu0SgMsTj16Xv-GbLCLv-41">
           <mxGeometry relative="1" as="geometry" />
