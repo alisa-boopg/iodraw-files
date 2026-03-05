@@ -62,43 +62,43 @@
           <mxGeometry x="11" y="693.25" width="231" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qu0SgMsTj16Xv-GbLCLv-50" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="331" y="591" width="471.51" height="397" as="geometry" />
+          <mxGeometry x="320" y="570" width="482.51" height="418" as="geometry" />
         </mxCell>
         <mxCell id="qu0SgMsTj16Xv-GbLCLv-51" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;" vertex="1" parent="qu0SgMsTj16Xv-GbLCLv-50">
-          <mxGeometry x="0.51" y="-6" width="471" height="403" as="geometry" />
+          <mxGeometry x="0.5218979449004263" y="-6.317380352644837" width="481.98810205509955" height="424.3173803526449" as="geometry" />
         </mxCell>
         <mxCell id="qu0SgMsTj16Xv-GbLCLv-52" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;差分隐私应用&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="qu0SgMsTj16Xv-GbLCLv-50">
-          <mxGeometry x="10.17" y="21.05" width="451.67" height="35.95" as="geometry" />
+          <mxGeometry x="10.407259018896736" y="22.16347607052897" width="462.2071466140697" height="37.851637279596986" as="geometry" />
         </mxCell>
         <mxCell id="qu0SgMsTj16Xv-GbLCLv-57" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;联邦学习公平性&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;" vertex="1" parent="qu0SgMsTj16Xv-GbLCLv-50">
-          <mxGeometry x="10.17" y="94.01" width="196.83" height="40" as="geometry" />
+          <mxGeometry x="10.407259018896736" y="98.98282115869019" width="201.42190685245276" height="42.11586901763225" as="geometry" />
         </mxCell>
         <mxCell id="qu0SgMsTj16Xv-GbLCLv-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qu0SgMsTj16Xv-GbLCLv-50" source="qu0SgMsTj16Xv-GbLCLv-52" target="qu0SgMsTj16Xv-GbLCLv-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qu0SgMsTj16Xv-GbLCLv-60" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;私有图像的隐私发布&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;aspect=fixed;" vertex="1" parent="qu0SgMsTj16Xv-GbLCLv-50">
-          <mxGeometry x="230.83" y="94.27000000000001" width="232.52" height="40" as="geometry" />
+          <mxGeometry x="236.21510317914786" y="99.2565743073048" width="237.94452970244535" height="40.93317214905304" as="geometry" />
         </mxCell>
         <mxCell id="qu0SgMsTj16Xv-GbLCLv-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qu0SgMsTj16Xv-GbLCLv-50" source="qu0SgMsTj16Xv-GbLCLv-52" target="qu0SgMsTj16Xv-GbLCLv-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qu0SgMsTj16Xv-GbLCLv-64" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;公平性优化&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;" vertex="1" parent="qu0SgMsTj16Xv-GbLCLv-50">
-          <mxGeometry x="13" y="183" width="46" height="178" as="geometry" />
+          <mxGeometry x="13.303280948442238" y="192.68010075566752" width="47.073147971411" height="187.41561712846348" as="geometry" />
         </mxCell>
         <mxCell id="qu0SgMsTj16Xv-GbLCLv-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qu0SgMsTj16Xv-GbLCLv-50" source="qu0SgMsTj16Xv-GbLCLv-57" target="qu0SgMsTj16Xv-GbLCLv-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qu0SgMsTj16Xv-GbLCLv-66" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;差分隐私保障&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;" vertex="1" parent="qu0SgMsTj16Xv-GbLCLv-50">
-          <mxGeometry x="85.59" y="183" width="46" height="178" as="geometry" />
+          <mxGeometry x="87.58675510593625" y="192.68010075566752" width="47.073147971411" height="187.41561712846348" as="geometry" />
         </mxCell>
         <mxCell id="qu0SgMsTj16Xv-GbLCLv-67" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;近似分布发布&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;" vertex="1" parent="qu0SgMsTj16Xv-GbLCLv-50">
-          <mxGeometry x="237" y="188" width="46" height="178" as="geometry" />
+          <mxGeometry x="242.52904498313927" y="197.94458438287157" width="47.073147971411" height="187.41561712846348" as="geometry" />
         </mxCell>
         <mxCell id="qu0SgMsTj16Xv-GbLCLv-68" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;动态隐私预算&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;" vertex="1" parent="qu0SgMsTj16Xv-GbLCLv-50">
-          <mxGeometry x="299" y="188" width="46" height="178" as="geometry" />
+          <mxGeometry x="305.97546181417147" y="197.94458438287157" width="47.073147971411" height="187.41561712846348" as="geometry" />
         </mxCell>
         <mxCell id="qu0SgMsTj16Xv-GbLCLv-69" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;遗传迭代&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;" vertex="1" parent="qu0SgMsTj16Xv-GbLCLv-50">
-          <mxGeometry x="369" y="188" width="46" height="178" as="geometry" />
+          <mxGeometry x="377.6085130750143" y="197.94458438287157" width="47.073147971411" height="187.41561712846348" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
