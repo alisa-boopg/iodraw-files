@@ -4,17 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="g9Ha0dKhtUsYav0e26QZ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="g9Ha0dKhtUsYav0e26QZ-1" target="g9Ha0dKhtUsYav0e26QZ-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="g9Ha0dKhtUsYav0e26QZ-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;随机噪声&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;i&gt;z ~ P&lt;sub&gt;z&lt;/sub&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="128" width="106" height="59" as="geometry" />
-        </mxCell>
-        <mxCell id="g9Ha0dKhtUsYav0e26QZ-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;生成器G&lt;/font&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="33" y="240" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="g9Ha0dKhtUsYav0e26QZ-8" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="210" y="214" width="131" height="73" as="geometry" />
+          <mxGeometry x="210" y="227" width="131" height="73" as="geometry" />
         </mxCell>
         <mxCell id="g9Ha0dKhtUsYav0e26QZ-4" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;生成图像&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;G(z)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="g9Ha0dKhtUsYav0e26QZ-8">
           <mxGeometry width="120" height="60" as="geometry" />
@@ -24,6 +15,18 @@
         </mxCell>
         <mxCell id="g9Ha0dKhtUsYav0e26QZ-7" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;生成图像&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;G(z)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="g9Ha0dKhtUsYav0e26QZ-8">
           <mxGeometry x="11" y="13" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g9Ha0dKhtUsYav0e26QZ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="g9Ha0dKhtUsYav0e26QZ-1" target="g9Ha0dKhtUsYav0e26QZ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g9Ha0dKhtUsYav0e26QZ-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;随机噪声&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;i&gt;z ~ P&lt;sub&gt;z&lt;/sub&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="128" width="106" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="g9Ha0dKhtUsYav0e26QZ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="g9Ha0dKhtUsYav0e26QZ-2" target="g9Ha0dKhtUsYav0e26QZ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g9Ha0dKhtUsYav0e26QZ-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;生成器G&lt;/font&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="33" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
