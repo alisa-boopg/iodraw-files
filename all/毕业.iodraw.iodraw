@@ -20,7 +20,10 @@
           <mxGeometry x="477" y="302" width="142" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qu0SgMsTj16Xv-GbLCLv-11" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;原始图像发布的隐私&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="633" y="302" width="142" height="60" as="geometry" />
+          <mxGeometry x="652" y="302" width="142" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qu0SgMsTj16Xv-GbLCLv-12" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;联邦学习隐私公平问题&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="331" y="302" width="142" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
