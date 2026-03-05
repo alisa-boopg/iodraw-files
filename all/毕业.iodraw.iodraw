@@ -100,7 +100,7 @@
         <mxCell id="qu0SgMsTj16Xv-GbLCLv-69" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;遗传迭代&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;" vertex="1" parent="qu0SgMsTj16Xv-GbLCLv-50">
           <mxGeometry x="369" y="188" width="46" height="178" as="geometry" />
         </mxCell>
-        <mxCell id="qu0SgMsTj16Xv-GbLCLv-71" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qu0SgMsTj16Xv-GbLCLv-71" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="897" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
