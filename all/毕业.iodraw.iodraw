@@ -76,7 +76,7 @@
         <mxCell id="qu0SgMsTj16Xv-GbLCLv-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qu0SgMsTj16Xv-GbLCLv-50" source="qu0SgMsTj16Xv-GbLCLv-52" target="qu0SgMsTj16Xv-GbLCLv-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qu0SgMsTj16Xv-GbLCLv-60" value="&lt;span style=&quot;font-family: Verdana; font-size: 24px;&quot;&gt;联邦学习公平性&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;aspect=fixed;" vertex="1" parent="qu0SgMsTj16Xv-GbLCLv-50">
+        <mxCell id="qu0SgMsTj16Xv-GbLCLv-60" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;私有图像的隐私发布&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;aspect=fixed;" vertex="1" parent="qu0SgMsTj16Xv-GbLCLv-50">
           <mxGeometry x="230.83" y="94.27000000000001" width="232.52" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qu0SgMsTj16Xv-GbLCLv-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qu0SgMsTj16Xv-GbLCLv-50" source="qu0SgMsTj16Xv-GbLCLv-52" target="qu0SgMsTj16Xv-GbLCLv-60">
