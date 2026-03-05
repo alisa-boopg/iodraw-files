@@ -40,6 +40,9 @@
         <mxCell id="g9Ha0dKhtUsYav0e26QZ-13" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;原始图像&lt;i&gt; x&lt;/i&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="g9Ha0dKhtUsYav0e26QZ-10">
           <mxGeometry x="11" y="13" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="g9Ha0dKhtUsYav0e26QZ-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g9Ha0dKhtUsYav0e26QZ-15" target="g9Ha0dKhtUsYav0e26QZ-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="g9Ha0dKhtUsYav0e26QZ-15" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;判&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;别&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;器&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;D&lt;/span&gt;&lt;/div&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=north;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="457" y="145" width="60" height="120" as="geometry" />
         </mxCell>
@@ -48,6 +51,9 @@
         </mxCell>
         <mxCell id="g9Ha0dKhtUsYav0e26QZ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="g9Ha0dKhtUsYav0e26QZ-7" target="g9Ha0dKhtUsYav0e26QZ-15">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g9Ha0dKhtUsYav0e26QZ-18" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="587" y="165" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
