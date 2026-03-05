@@ -58,44 +58,44 @@
         <mxCell id="qu0SgMsTj16Xv-GbLCLv-49" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 24px;&quot;&gt;第三、四章&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;论文研究内容&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="11" y="693.25" width="231" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qu0SgMsTj16Xv-GbLCLv-50" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="336" y="573" width="484" height="415" as="geometry" />
+        <mxCell id="qu0SgMsTj16Xv-GbLCLv-50" value="" style="group;aspect=fixed;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="336" y="573" width="463" height="406.23" as="geometry" />
         </mxCell>
         <mxCell id="qu0SgMsTj16Xv-GbLCLv-51" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;arcSize=5;" vertex="1" parent="qu0SgMsTj16Xv-GbLCLv-50">
-          <mxGeometry x="0.003509575618756755" y="5.9979596977329965" width="483.4764904243812" height="421.27204030226704" as="geometry" />
+          <mxGeometry x="0.0033573006435627635" y="5.871207633759218" width="462.4992046828275" height="412.36949622166253" as="geometry" />
         </mxCell>
         <mxCell id="qu0SgMsTj16Xv-GbLCLv-52" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;差分隐私应用&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="qu0SgMsTj16Xv-GbLCLv-50">
-          <mxGeometry x="10.439396831456385" y="22.004408060453404" width="463.63445101906643" height="37.579974811083126" as="geometry" />
+          <mxGeometry x="9.986447795380798" y="21.539399244332497" width="443.51808021038795" height="36.78581486146096" as="geometry" />
         </mxCell>
         <mxCell id="qu0SgMsTj16Xv-GbLCLv-57" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;联邦学习公平性&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;" vertex="1" parent="qu0SgMsTj16Xv-GbLCLv-50">
-          <mxGeometry x="10.439396831456385" y="98.27241813602016" width="202.04390150792136" height="41.813602015113354" as="geometry" />
+          <mxGeometry x="9.986447795380798" y="96.19567329974812" width="193.27753388051156" height="40.92997481108313" as="geometry" />
         </mxCell>
         <mxCell id="qu0SgMsTj16Xv-GbLCLv-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qu0SgMsTj16Xv-GbLCLv-50" source="qu0SgMsTj16Xv-GbLCLv-52" target="qu0SgMsTj16Xv-GbLCLv-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qu0SgMsTj16Xv-GbLCLv-60" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;私有图像的隐私发布&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;aspect=fixed;" vertex="1" parent="qu0SgMsTj16Xv-GbLCLv-50">
-          <mxGeometry x="236.94453988250515" y="98.54420654911841" width="238.67930690759476" height="41.059574558333864" as="geometry" />
+          <mxGeometry x="226.66388835867744" y="96.46171813602018" width="228.32338656656276" height="39.27806409195987" as="geometry" />
         </mxCell>
         <mxCell id="qu0SgMsTj16Xv-GbLCLv-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qu0SgMsTj16Xv-GbLCLv-50" source="qu0SgMsTj16Xv-GbLCLv-52" target="qu0SgMsTj16Xv-GbLCLv-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qu0SgMsTj16Xv-GbLCLv-64" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;公平性优化&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;" vertex="1" parent="qu0SgMsTj16Xv-GbLCLv-50">
-          <mxGeometry x="13.344361731458505" y="191.2972292191436" width="47.21851074208394" height="186.07052896725443" as="geometry" />
+          <mxGeometry x="12.76537082988696" y="187.2546347607053" width="45.169773705753855" height="182.13838790931993" as="geometry" />
         </mxCell>
         <mxCell id="qu0SgMsTj16Xv-GbLCLv-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qu0SgMsTj16Xv-GbLCLv-50" source="qu0SgMsTj16Xv-GbLCLv-57" target="qu0SgMsTj16Xv-GbLCLv-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qu0SgMsTj16Xv-GbLCLv-66" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;差分隐私保障&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;" vertex="1" parent="qu0SgMsTj16Xv-GbLCLv-50">
-          <mxGeometry x="87.85722466119489" y="191.2972292191436" width="47.21851074208394" height="186.07052896725443" as="geometry" />
+          <mxGeometry x="84.04523764077115" y="187.2546347607053" width="45.169773705753855" height="182.13838790931993" as="geometry" />
         </mxCell>
         <mxCell id="qu0SgMsTj16Xv-GbLCLv-67" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;近似分布发布&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;" vertex="1" parent="qu0SgMsTj16Xv-GbLCLv-50">
-          <mxGeometry x="243.27797925812814" y="196.52392947103277" width="47.21851074208394" height="186.07052896725443" as="geometry" />
+          <mxGeometry x="232.72252974486224" y="192.37088161209073" width="45.169773705753855" height="182.13838790931993" as="geometry" />
         </mxCell>
         <mxCell id="qu0SgMsTj16Xv-GbLCLv-68" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;动态隐私预算&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;" vertex="1" parent="qu0SgMsTj16Xv-GbLCLv-50">
-          <mxGeometry x="306.92031982354564" y="196.52392947103277" width="47.21851074208394" height="186.07052896725443" as="geometry" />
+          <mxGeometry x="293.6035290874001" y="192.37088161209073" width="45.169773705753855" height="182.13838790931993" as="geometry" />
         </mxCell>
         <mxCell id="qu0SgMsTj16Xv-GbLCLv-69" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;遗传迭代&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;" vertex="1" parent="qu0SgMsTj16Xv-GbLCLv-50">
-          <mxGeometry x="378.77457530062986" y="196.52392947103277" width="47.21851074208394" height="186.07052896725443" as="geometry" />
+          <mxGeometry x="362.3401412483298" y="192.37088161209073" width="45.169773705753855" height="182.13838790931993" as="geometry" />
         </mxCell>
         <mxCell id="qu0SgMsTj16Xv-GbLCLv-71" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="897" width="120" height="60" as="geometry" />
