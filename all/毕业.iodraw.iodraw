@@ -41,7 +41,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="g9Ha0dKhtUsYav0e26QZ-18" value="真假" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="587" y="184" width="159" height="61" as="geometry" />
+          <mxGeometry x="567" y="174.5" width="113" height="61" as="geometry" />
         </mxCell>
         <mxCell id="g9Ha0dKhtUsYav0e26QZ-4" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;生成图像&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;G(z)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="206" y="227" width="120" height="60" as="geometry" />
