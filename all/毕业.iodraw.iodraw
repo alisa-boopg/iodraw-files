@@ -54,7 +54,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="g9Ha0dKhtUsYav0e26QZ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g9Ha0dKhtUsYav0e26QZ-18" target="g9Ha0dKhtUsYav0e26QZ-15">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="624" y="323" />
+              <mxPoint x="542" y="323" />
+              <mxPoint x="542" y="255" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="g9Ha0dKhtUsYav0e26QZ-18" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;真假&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="567" y="174.5" width="113" height="61" as="geometry" />
