@@ -40,8 +40,11 @@
         <mxCell id="g9Ha0dKhtUsYav0e26QZ-13" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;原始图像&lt;i&gt; x&lt;/i&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="g9Ha0dKhtUsYav0e26QZ-10">
           <mxGeometry x="11" y="13" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="g9Ha0dKhtUsYav0e26QZ-15" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="370" y="161" width="120" height="60" as="geometry" />
+        <mxCell id="g9Ha0dKhtUsYav0e26QZ-15" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="464" y="140" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="g9Ha0dKhtUsYav0e26QZ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="g9Ha0dKhtUsYav0e26QZ-13" target="g9Ha0dKhtUsYav0e26QZ-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
